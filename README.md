@@ -1,13 +1,3 @@
----
-license: openrail++
-tags:
-- text-to-image
-- stable-diffusion
-- logos
----
-
----
-
 <div align="center"><h1 align="center">~ Chhavi ~</h1><img src="https://huggingface.co/budecosystem/Chhavi/resolve/main/cool.png" alt="Vector anime chibi style logo featuring a single piece of flaming piece of popcorn with a smiling face, with mirrorshades sunglasses, popcorn as morpheus, clean composition, symmetrical" width=150 style="border-radius: 150px;"></div>
 
 
